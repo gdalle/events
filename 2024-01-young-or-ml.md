@@ -1,4 +1,4 @@
-# Workshop for early-careed researchers in OR and ML
+# Workshop for early-career researchers in OR and ML
 
 ## Details
 
