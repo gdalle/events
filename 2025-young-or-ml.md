@@ -4,6 +4,7 @@
 
 - Date: January 22nd (afternoon) and 23rd (whole day) of 2025
 - Location: [CERMICS](https://cermics-lab.enpc.fr/), École des Ponts
+- Attendance: upon invitation only
 
 ## Schedule
 
