@@ -1,3 +1,0 @@
-# Events
-
-Hello world
